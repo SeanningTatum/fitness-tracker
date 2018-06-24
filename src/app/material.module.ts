@@ -10,7 +10,15 @@ import {
   MatToolbarModule,
   MatSidenavModule,
   MatListModule,
-  MatTabsModule
+  MatTabsModule,
+  MatCardModule,
+  MatSelectModule,
+  MatProgressSpinnerModule,
+  MatDialogModule,
+  MatTableModule,
+  MatSortModule,
+  MatPaginatorModule,
+  MatSnackBarModule
 } from '@angular/material';
 
 const matArray = [
@@ -24,7 +32,15 @@ const matArray = [
   MatToolbarModule,
   MatSidenavModule,
   MatListModule,
-  MatTabsModule
+  MatTabsModule,
+  MatCardModule,
+  MatSelectModule,
+  MatProgressSpinnerModule,
+  MatDialogModule,
+  MatTableModule,
+  MatSortModule,
+  MatPaginatorModule,
+  MatSnackBarModule
 ];
 
 @NgModule({

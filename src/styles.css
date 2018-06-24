@@ -14,3 +14,7 @@ body {
   margin: 0;
 
 }
+
+mat-snack-bar{
+  max-width: 300px;
+}
